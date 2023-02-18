@@ -12,7 +12,7 @@
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
 
-  border-bottom: 1px solid #103d4a;
+  border-bottom: 1px solid pink;
 
   position: absolute;
 }
@@ -33,4 +33,10 @@
   margin-right: 0.7rem;
   margin-bottom: 1.25rem;
   margin-left: 0.7rem;
+}
+
+.botao {
+  border: 2px solid;
+  display: inline-block;
+  padding: 10px;
 }
