@@ -40,3 +40,11 @@
   display: inline-block;
   padding: 10px;
 }
+
+@media screen and (min-width: 1024px) {
+  .cabecalho {
+    flex-direction: row;
+    border: none;
+    justify-content: space-between;
+  }
+}
